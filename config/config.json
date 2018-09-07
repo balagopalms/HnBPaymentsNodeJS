@@ -1,0 +1,13 @@
+{
+	"adyen":
+	{
+		"reference" : "HnB100011",
+		"shopperReference" : "yourShopperId_IOfW3k9G2PvXFu2j",
+		"channel" : "Web",
+		"html" : "true",
+		"merchantAccount": "HnBECommTest",
+		"sdkVersion" : "1.3.2",
+		"sessionEndpoint" : "https://checkout-test.adyen.com/v32/paymentSession",
+		"xAPIKey" : "AQEfhmfuXNWTK0Qc+iSesFABe1h8Cxd32qLHGNBZ+MzNyhDBXVsNvuR83LVYjEgiTGAH-+JQpLkHSDmliqvoYb33/PwvkQ8anUgghE9YykxS+Rlk=-GLKj7HYgxLgjN2d5"
+	}
+}
